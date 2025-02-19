@@ -1,19 +1,21 @@
-## Software Developer | Backend & Microservices Enthusiast  
+# Hola 👋 Soy David Mancera  
 
-I’m a software developer with experience in web and desktop applications, as well as API development. While I have worked with different technologies in the past, I’m currently focused on deepening my knowledge in **backend development** and **microservices architecture**.  
+## Desarrollador de Software | Entusiasta del Backend y Microservicios  
 
-My main goal is to master **Java (Spring Boot)** and **Python**, as they are widely used for building scalable and maintainable backend systems. I’m also reinforcing my understanding of **software design patterns**, **data structures**, and **best practices** to improve my problem-solving skills.  
+Soy un desarrollador de software con experiencia en aplicaciones web, de escritorio y desarrollo de APIs. Aunque he trabajado con diferentes tecnologías, actualmente estoy enfocado en profundizar mis conocimientos en **desarrollo backend** y **arquitectura de microservicios**.  
 
-### 🔹 About Me  
-- 💡 Focused on **backend development** and **microservices**  
-- 📍 Based in **Colombia**  
-- 📚 Constantly learning and improving my technical skills  
-- 🏗️ Experience with **web, desktop applications, and API development**  
-- 🚀 Exploring cloud technologies, containerization, and distributed systems
+Mi objetivo principal es dominar **Java (Spring Boot)** y **Python**, ya que son tecnologías ampliamente utilizadas para construir sistemas backend escalables y mantenibles. También estoy reforzando mi comprensión de **patrones de diseño de software**, **estructuras de datos** y **mejores prácticas** para mejorar mis habilidades en la resolución de problemas.  
 
-### 🔧 Technologies & Tools  
-- **Languages:** Java, Python, JavaScript, PHP  
+### 🔹 Sobre mí  
+- 💡 Enfocado en **backend y microservicios**  
+- 📍 Ubicado en **Colombia**  
+- 📚 Aprendiendo y mejorando constantemente mis habilidades técnicas  
+- 🏗️ Experiencia en **aplicaciones web, de escritorio y desarrollo de APIs**  
+- 🚀 Explorando tecnologías en la nube, contenedores y sistemas distribuidos
+
+### 🔧 Tecnologías y Herramientas  
+- **Lenguajes:** Java, Python, JavaScript, PHP
 - **Backend:** Spring Boot, FastAPI, Laravel, Node.js  
-- **Microservices & Cloud:** Docker, AWS
-- **Databases:** SQL Server, MySQL
-- **Other:** Linux, Git
+- **Microservicios y Cloud:** Docker, AWS  
+- **Bases de Datos:** SQL Server, MySQL  
+- **Otros:** Linux, Git

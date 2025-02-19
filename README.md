@@ -1,21 +1,21 @@
 # Hi 👋 I'm David Mancera  
 
-## Software Developer | Backend Enthusiast  
+## Software Developer | Backend & Microservices Enthusiast  
 
-I’m a software developer passionate about building scalable and efficient applications. I have experience developing web and desktop applications, as well as designing robust APIs. My main focus is backend development, ensuring clean architecture and maintainable code.  
+I’m a software developer with experience in web and desktop applications, as well as API development. While I have worked with different technologies in the past, I’m currently focused on deepening my knowledge in **backend development** and **microservices architecture**.  
 
-Currently, I’m expanding my expertise in **.NET (C#)** and **Python**, while also strengthening my knowledge in **Laravel** and **React** to stay versatile in the industry. Additionally, I’m exploring **data structures**, software design patterns, and best practices to improve my problem-solving skills.  
+My main goal is to master **Java (Spring Boot)** and **Python**, as they are widely used for building scalable and maintainable backend systems. I’m also reinforcing my understanding of **software design patterns**, **data structures**, and **best practices** to improve my problem-solving skills.  
 
 ### 🔹 About Me  
-- 🚀 Passionate about backend development and API design  
+- 💡 Focused on **backend development** and **microservices**  
 - 📍 Based in **Colombia**  
-- 📚 Constantly learning and improving my craft  
-- 🎯 Focused on structuring clean and scalable code  
-- 🏋️‍♂️ Tech and self-improvement enthusiast  
+- 📚 Constantly learning and improving my technical skills  
+- 🏗️ Experience with **web, desktop applications, and API development**  
+- 🚀 Exploring cloud technologies, containerization, and distributed systems  
 
 ### 🔧 Technologies & Tools  
-- **Languages:** C#, Python, JavaScript, PHP  
-- **Backend:** .NET, FastAPI, Laravel, Node.js  
-- **Frontend (Occasionally 👀):** React, TypeScript  
+- **Languages:** Java, Python, JavaScript, PHP  
+- **Backend:** Spring Boot, FastAPI, Laravel, Node.js  
+- **Microservices & Cloud:** Docker, Kubernetes, AWS  
 - **Databases:** SQL Server, MySQL  
-- **Other:** Linux, Git  
+- **Other:** Linux, Git, CI/CD  
